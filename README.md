@@ -1,3 +1,3 @@
-I am an Assistant Professor at Virginia Tech, where I currently work as an AI Research Scientist, Digital Libraries for the University Library. 
+I am an Assistant Professor at Virginia Tech, where I currently work as an AI Research Scientist, Digital Libraries for the University Libraries. 
 
 I completed my Ph.D. from Virginia Tech in July 2024. My dissertation titled "Improving Access to ETD Elements Through Chapter Categorization and Summarization" brings computational access to long documents such as Electronic Theses and Dissertations (ETDs) by providing readers with more granular level metadata information such as chapter summaries and classification labels. 
